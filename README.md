@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Gabriele and I like to program and always experiment with new things.<br>During my training at the university, I had the opportunity to learn a fair number of languages but above all to know new types of programming.
+- 👋 Hi, I'm Gabriele.<br><br>I like to program and always experiment with new things.<br>During my training at the university, I had the opportunity to learn a fair number of languages but above all to know new types of programming.
 
 - 👀 I am interested in developing web / mobile applications and always knowing new languages
 

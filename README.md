@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Flutter framework
 
-- 📫 You can find me on LinkedIn or check my <a src="https://gabrielepinese.github.io/portfolio/">website</a> and mail me.
+- 📫 You can find me on LinkedIn or check my [website](https://gabrielepinese.github.io/portfolio/) and mail me.
 
 <!---
 gabrielepinese/gabrielepinese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

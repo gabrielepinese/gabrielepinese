@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Gabriele.<br>I like to program and always experiment with new things.
+- 👋 Hi, I'm Gabriele. I like to program and always experiment with new things.
 
 - 👀 I am interested in developing web / mobile applications and always knowing new languages
 

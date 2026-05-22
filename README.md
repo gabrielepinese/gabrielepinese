@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey, I'm Gabriele
 
-<!--
-**gabrielepinese/gabrielepinese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specialized in Angular & React, focused on building modern and performant applications 🚀
 
-Here are some ideas to get you started:
+I mainly work with TypeScript, SQL and C#, while currently exploring the Rust ecosystem 🦀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+Angular • React • TypeScript • SQL • C#
+
+## 📚 Currently Learning
+
+Rust, Fullstack Architecture & System Design
+
+> “Works on my machine” — famous last words.

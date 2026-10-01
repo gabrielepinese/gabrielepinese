@@ -6,7 +6,7 @@ I mainly work with TypeScript, SQL and C#, while currently exploring the Rust/Py
 
 ## 🛠 Tech Stack
 
-Angular • React • TypeScript • SQL • C#
+Angular • React • TypeScript • SQL • C# • Python
 
 ## 📚 Currently Learning
 
